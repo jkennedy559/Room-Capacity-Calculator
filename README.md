@@ -1,5 +1,7 @@
-Task
+### Capacity Calculator
 
-Create a function that takes as input the dimensions of a room and returns the maximum number of people that could occupy the room while maintaining a 2 meter distance frome eachother.
+Input dimensions of a room in meters and the app will calculate the person capacity assuming 2 meters social distancing is required. Visual output is also supplied for reference.
+
+
 
 
